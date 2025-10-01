@@ -29,8 +29,8 @@ $ status
 - 🥉 FlutterFlow Hackathon – 3rd Place  
 
 ## 📊 GitHub Stats
-![Kean's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Kean's GitHub stats](https://github-readme-stats.vercel.app/api?username=keanlouis30&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keanlouis30&layout=compact&theme=radical)
 
 ## 🙋‍♂️ About Me
 I love breaking things to understand how they work (cybersecurity), then building them back better (development).  
