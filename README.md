@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=74C69D&center=true&vCenter=true&width=600&lines=Cybersecurity+Specialist;Full-Stack+Developer;DLSU+HackerCup+2025+Champion;Inventi+Hackathon+2nd+Place)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=74C69D&center=true&vCenter=true&width=800&lines=DLSU+HackerCup+2025+Champion;DLSU+CTF+2025+Champion;Inventi+Hackathon+2025+2nd+Place;Tenext.ai+Codebreak+2.0+Top+5+Finalist;FlutterFlow+Manila+Hackathon+3rd+Place;SpringBoards+hack-it+4th+Place;KMC+Solutions+Hackathon+Special+Award;DLSU+CTF+2024+4th+Place)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-keanrosales.com-74c69d?style=for-the-badge&logo=firefox&logoColor=white)](https://keanrosales.com)
 [![Resume](https://img.shields.io/badge/Resume-Download_PDF-52b788?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://keanrosales.com/resume.pdf)
@@ -12,7 +12,7 @@
 
 ---
 
-## 🖥️ $ whoami
+## $ whoami
 
 ```bash
 kean@portfolio:~$ cat about.txt
@@ -21,12 +21,14 @@ kean@portfolio:~$ cat about.txt
 ```
 KEAN LOUIS ROSALES
 
-Cybersecurity Specialist & Full-Stack Developer
-📍 Metro Manila, Philippines
-🎯 Network & Information Security
-📊 8+ Hackathons | 100% Award Rate
-🏆 DLSU HackerCup 2025 Champion
-🥈 Inventi Hackathon 2025 - 2nd Place
+4th year student at De La Salle University
+Bachelor of Science in Computer Science
+Major in Network and Information Security
+
+Location: Metro Manila, Philippines
+Specialization: Cybersecurity & Full-Stack Development
+Competitions: 8+ Hackathons | 100% Award Rate
+Recent: DLSU HackerCup 2025 Champion, Inventi Hackathon 2nd Place
 
 STATUS: Available for collaboration
 ```
@@ -34,22 +36,22 @@ STATUS: Available for collaboration
 ---
 
 <details>
-<summary>🏆 Competition Achievements</summary>
+<summary>Competition Achievements</summary>
 
 ```bash
 kean@portfolio:~$ sort -k2 -nr hackathons.log | head -10
 ```
 
-| **RANK** | **COMPETITION** | **PROJECT** | **ACHIEVEMENT** |
-|----------|-----------------|-------------|-----------------|
-| **#1** 🏆 | DLSU HackerCup 2025 | KitaKita | **Champion** |
-| **#2** 🥈 | Inventi Hackathon Challenge 2025 | InventiSolve | **2nd Place** |
-| **#1** 🏆 | DLSU CTF 2025 | Cybersecurity Competition | **Champion** |
-| **#4** 🏅 | DLSU CTF 2024 | Cybersecurity Competition | **4th Place** |
-| **#5** 🥇 | Tenext.ai Codebreak 2.0 | Neosolutions | **Top 5 Finalist** |
-| **#3** 🥉 | FlutterFlow Manila Hackathon | Procrash | **3rd Place** |
-| **#4** 🏅 | SpringBoards hack-it | Kachingko | **4th Place** |
-| **★** ⭐ | KMC Solutions Hackathon | Talento | **Special Award** |
+| RANK | COMPETITION | PROJECT | ACHIEVEMENT | YEAR |
+|------|-------------|---------|-------------|------|
+| ![rank](https://img.shields.io/badge/RANK-1-74c69d?labelColor=1b4332) | DLSU HackerCup | KitaKita | ![Champion](https://img.shields.io/badge/Champion-74c69d?labelColor=1b4332) | 2025 |
+| ![rank](https://img.shields.io/badge/RANK-2-52b788?labelColor=1b4332) | Inventi Hackathon Challenge | InventiSolve | ![2nd Place](https://img.shields.io/badge/2nd_Place-52b788?labelColor=1b4332) | 2025 |
+| ![rank](https://img.shields.io/badge/RANK-1-74c69d?labelColor=1b4332) | DLSU CTF | Cybersecurity Competition | ![Champion](https://img.shields.io/badge/Champion-74c69d?labelColor=1b4332) | 2025 |
+| ![rank](https://img.shields.io/badge/RANK-4-b7e4c7?labelColor=1b4332) | DLSU CTF | Cybersecurity Competition | ![4th Place](https://img.shields.io/badge/4th_Place-b7e4c7?labelColor=1b4332) | 2024 |
+| ![rank](https://img.shields.io/badge/RANK-5-95d5b2?labelColor=1b4332) | Tenext.ai Codebreak 2.0 | Neosolutions | ![Top 5 Finalist](https://img.shields.io/badge/Top_5_Finalist-95d5b2?labelColor=1b4332) | 2024 |
+| ![rank](https://img.shields.io/badge/RANK-3-95d5b2?labelColor=1b4332) | FlutterFlow Manila Hackathon | Procrash | ![3rd Place](https://img.shields.io/badge/3rd_Place-95d5b2?labelColor=1b4332) | 2024 |
+| ![rank](https://img.shields.io/badge/RANK-4-b7e4c7?labelColor=1b4332) | SpringBoards hack-it | Kachingko | ![4th Place](https://img.shields.io/badge/4th_Place-b7e4c7?labelColor=1b4332) | 2024 |
+| ![rank](https://img.shields.io/badge/RANK-Special-40916c?labelColor=1b4332) | KMC Solutions Hackathon | Talento | ![Special Award](https://img.shields.io/badge/Special_Award-40916c?labelColor=1b4332) | 2024 |
 
 **Stats**: 8+ Competitions • 3 Champions • 7 Top 5 Finishes • 100% Award Rate
 
@@ -58,33 +60,33 @@ kean@portfolio:~$ sort -k2 -nr hackathons.log | head -10
 ---
 
 <details>
-<summary>💻 Featured Projects</summary>
+<summary>Featured Projects</summary>
 
 ```bash
 kean@portfolio:~$ ls -la projects/ | grep -E "(champion|winner|finalist)"
 ```
 
-### 🏆 **KitaKita** - *DLSU HackerCup 2025 Champion*
+### KitaKita — DLSU HackerCup 2025 Champion
 > Messenger-based POS system for small neighborhood stores  
 > **Stack**: Facebook Messenger API, Node.js, Express, MongoDB  
 > **Impact**: Champion-winning solution for SME digitalization
 
-### 🥈 **InventiSolve** - *Inventi Hackathon 2nd Place*
+### InventiSolve — Inventi Hackathon 2nd Place
 > All-in-one property management solution for tenants and homeowners  
 > **Stack**: React, Node.js, Express, PostgreSQL, JWT Authentication  
 > **Impact**: Streamlined property operations and management
 
-### 🎯 **Neosolutions** - *Top 5 Finalist*
+### Neosolutions — Top 5 Finalist
 > Custom ticketing and support system for enterprise needs  
 > **Stack**: React, Node.js, Socket.io, PostgreSQL  
 > **Impact**: Real-time ticket management with workflow automation
 
-### 🎮 **Procrash** - *3rd Place Winner*
+### Procrash — 3rd Place Winner
 > Gamified to-do list mobile app with RPG elements  
 > **Stack**: Flutter, FlutterFlow, Firebase, Dart  
 > **Impact**: Combating procrastination through gamification
 
-### 🔬 **FiMO Communication Glove** - *Regional Science Fair Winner*
+### FiMO Communication Glove — Regional Science Fair Winner
 > Smart glove translating finger movements into speech  
 > **Stack**: Arduino, ML, Text-to-Speech AI, Gesture Recognition  
 > **Impact**: Assistive technology for speech-impaired patients
@@ -94,7 +96,7 @@ kean@portfolio:~$ ls -la projects/ | grep -E "(champion|winner|finalist)"
 ---
 
 <details>
-<summary>🛠️ Tech Stack</summary>
+<summary>Tech Stack</summary>
 
 ```bash
 kean@portfolio:~$ cat portfolio/skills.txt
@@ -136,7 +138,7 @@ kean@portfolio:~$ cat portfolio/skills.txt
 ---
 
 <details>
-<summary>🎨 Design System</summary>
+<summary>Design System</summary>
 
 ![Color Palette](readme-assets/color-palette.svg)
 
@@ -162,7 +164,7 @@ kean@portfolio:~$ cat portfolio/skills.txt
 ---
 
 <details>
-<summary>📊 GitHub Stats</summary>
+<summary>GitHub Stats</summary>
 
 <div align="center">
 
@@ -178,7 +180,7 @@ kean@portfolio:~$ cat portfolio/skills.txt
 
 ---
 
-## 🌐 Connect
+## Connect
 
 ```bash
 kean@portfolio:~$ cat contact.txt
@@ -186,10 +188,10 @@ kean@portfolio:~$ cat contact.txt
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-keanrosales.com-74c69d?style=for-the-badge)](https://keanrosales.com)
-[![Resume](https://img.shields.io/badge/📄_Resume-Download-52b788?style=for-the-badge)](https://keanrosales.com/resume.pdf)
-[![Email](https://img.shields.io/badge/📧_Email-kean@keanrosales.com-40916c?style=for-the-badge)](mailto:kean@keanrosales.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-2d6a4f?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/keanrosales)
+[![Portfolio](https://img.shields.io/badge/Portfolio-keanrosales.com-74c69d?style=for-the-badge)](https://keanrosales.com)
+[![Resume](https://img.shields.io/badge/Resume-Download-52b788?style=for-the-badge)](https://keanrosales.com/resume.pdf)
+[![Email](https://img.shields.io/badge/Email-kean@keanrosales.com-40916c?style=for-the-badge)](mailto:kean@keanrosales.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2d6a4f?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/keanrosales)
 
 </div>
 
