@@ -19,24 +19,40 @@ kean@portfolio:~$ cat about.txt
 ```
 
 ```
-KEAN LOUIS ROSALES
+██╗  ██╗███████╗ █████╗ ███╗   ██╗    ██████╗  ██████╗ ███████╗ █████╗ ██╗     ███████╗███████╗
+██║ ██╔╝██╔════╝██╔══██╗████╗  ██║    ██╔══██╗██╔═══██╗██╔════╝██╔══██╗██║     ██╔════╝██╔════╝
+█████╔╝ █████╗  ███████║██╔██╗ ██║    ██████╔╝██║   ██║███████╗███████║██║     █████╗  ███████╗
+██╔═██╗ ██╔══╝  ██╔══██║██║╚██╗██║    ██╔══██╗██║   ██║╚════██║██╔══██║██║     ██╔══╝  ╚════██║
+██║  ██╗███████╗██║  ██║██║ ╚████║    ██║  ██║╚██████╔╝███████║██║  ██║███████╗███████╗███████║
+╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝    ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝
 
-4th year student at De La Salle University
-Bachelor of Science in Computer Science
-Major in Network and Information Security
+┌────────────────────────────────────────────────────────────────────────────────┐
+│  ACADEMIC STATUS                                                               │
+├────────────────────────────────────────────────────────────────────────────────┤
+│  [STUDENT]     4th year student at De La Salle University                     │
+│  [PROGRAM]     Bachelor of Science in Computer Science                        │
+│  [MAJOR]       Network and Information Security                               │
+└────────────────────────────────────────────────────────────────────────────────┘
 
-Location: Metro Manila, Philippines
-Specialization: Cybersecurity & Full-Stack Development
-Competitions: 8+ Hackathons | 100% Award Rate
-Recent: DLSU HackerCup 2025 Champion, Inventi Hackathon 2nd Place
+┌────────────────────────────────────────────────────────────────────────────────┐
+│  PROFILE OVERVIEW                                                             │
+├────────────────────────────────────────────────────────────────────────────────┤
+│  [LOCATION]         Metro Manila, Philippines                                │
+│  [SPECIALIZATION]   Cybersecurity & Full-Stack Development                   │
+│  [COMPETITIONS]     8+ Hackathons | 100% Award Rate                          │
+│  [RECENT]           DLSU HackerCup 2025 Champion                             │
+│                     Inventi Hackathon 2nd Place                              │
+└────────────────────────────────────────────────────────────────────────────────┘
 
-STATUS: Available for collaboration
+┌────────────────────────────────────────────────────────────────────────────────┐
+│  STATUS: [ONLINE] Available for collaboration                                 │
+└────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
 <details>
-<summary>Competition Achievements</summary>
+<summary>$ cat achievements/competitions.log</summary>
 
 ```bash
 kean@portfolio:~$ sort -k2 -nr hackathons.log | head -10
@@ -60,33 +76,48 @@ kean@portfolio:~$ sort -k2 -nr hackathons.log | head -10
 ---
 
 <details>
-<summary>Featured Projects</summary>
+<summary>$ ls -la projects/ --featured</summary>
 
 ```bash
 kean@portfolio:~$ ls -la projects/ | grep -E "(champion|winner|finalist)"
 ```
 
-### KitaKita — DLSU HackerCup 2025 Champion
+```bash
+$ cat projects/kitakita.md
+```
+**KitaKita — DLSU HackerCup 2025 Champion**
 > Messenger-based POS system for small neighborhood stores  
 > **Stack**: Facebook Messenger API, Node.js, Express, MongoDB  
 > **Impact**: Champion-winning solution for SME digitalization
 
-### InventiSolve — Inventi Hackathon 2nd Place
+```bash
+$ cat projects/inventisolve.md
+```
+**InventiSolve — Inventi Hackathon 2nd Place**
 > All-in-one property management solution for tenants and homeowners  
 > **Stack**: React, Node.js, Express, PostgreSQL, JWT Authentication  
 > **Impact**: Streamlined property operations and management
 
-### Neosolutions — Top 5 Finalist
+```bash
+$ cat projects/neosolutions.md
+```
+**Neosolutions — Top 5 Finalist**
 > Custom ticketing and support system for enterprise needs  
 > **Stack**: React, Node.js, Socket.io, PostgreSQL  
 > **Impact**: Real-time ticket management with workflow automation
 
-### Procrash — 3rd Place Winner
+```bash
+$ cat projects/procrash.md
+```
+**Procrash — 3rd Place Winner**
 > Gamified to-do list mobile app with RPG elements  
 > **Stack**: Flutter, FlutterFlow, Firebase, Dart  
 > **Impact**: Combating procrastination through gamification
 
-### FiMO Communication Glove — Regional Science Fair Winner
+```bash
+$ cat projects/fimo_glove.md
+```
+**FiMO Communication Glove — Regional Science Fair Winner**
 > Smart glove translating finger movements into speech  
 > **Stack**: Arduino, ML, Text-to-Speech AI, Gesture Recognition  
 > **Impact**: Assistive technology for speech-impaired patients
@@ -96,40 +127,58 @@ kean@portfolio:~$ ls -la projects/ | grep -E "(champion|winner|finalist)"
 ---
 
 <details>
-<summary>Tech Stack</summary>
+<summary>$ cat /etc/skills.conf</summary>
 
 ```bash
 kean@portfolio:~$ cat portfolio/skills.txt
 ```
 
-### **Programming Languages**
+```bash
+$ ls skills/languages/
+```
+**Programming Languages**
 ![Python](https://img.shields.io/badge/Python-74c69d?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-52b788?style=flat-square&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-40916c?style=flat-square&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-2d6a4f?style=flat-square&logo=typescript&logoColor=white)
 
-### **Frontend Development**
+```bash
+$ ls skills/frontend/
+```
+**Frontend Development**
 ![React](https://img.shields.io/badge/React-74c69d?style=flat-square&logo=react&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-52b788?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-40916c?style=flat-square&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-2d6a4f?style=flat-square&logo=tailwindcss&logoColor=white)
 
-### **Backend Development**
+```bash
+$ ls skills/backend/
+```
+**Backend Development**
 ![Node.js](https://img.shields.io/badge/Node.js-74c69d?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-52b788?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-40916c?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2d6a4f?style=flat-square&logo=postgresql&logoColor=white)
 
-### **Mobile Development**
+```bash
+$ ls skills/mobile/
+```
+**Mobile Development**
 ![Flutter](https://img.shields.io/badge/Flutter-74c69d?style=flat-square&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-52b788?style=flat-square&logo=react&logoColor=white)
 
-### **Cybersecurity**
+```bash
+$ ls skills/security/
+```
+**Cybersecurity**
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-74c69d?style=flat-square&logo=kalilinux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-52b788?style=flat-square&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-40916c?style=flat-square&logo=nmap&logoColor=white)
 
-### **Hardware & IoT**
+```bash
+$ ls skills/hardware/
+```
+**Hardware & IoT**
 ![Arduino](https://img.shields.io/badge/Arduino-74c69d?style=flat-square&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-52b788?style=flat-square&logo=raspberrypi&logoColor=white)
 
@@ -138,11 +187,14 @@ kean@portfolio:~$ cat portfolio/skills.txt
 ---
 
 <details>
-<summary>Design System</summary>
+<summary>$ cat ~/.config/theme/design.yml</summary>
 
 ![Color Palette](readme-assets/color-palette.svg)
 
-### **Terminal Aesthetic**
+```bash
+$ cat design/theme.config
+```
+**Terminal Aesthetic**
 - **Theme**: Cyberpunk hacker terminal with Matrix-style elements
 - **Typography**: Monospace fonts (JetBrains Mono, Fira Code)
 - **Animations**: Boot sequences, glitch effects, scroll-triggered reveals
@@ -164,7 +216,7 @@ kean@portfolio:~$ cat portfolio/skills.txt
 ---
 
 <details>
-<summary>GitHub Stats</summary>
+<summary>$ git stats --advanced</summary>
 
 <div align="center">
 
@@ -180,6 +232,9 @@ kean@portfolio:~$ cat portfolio/skills.txt
 
 ---
 
+```bash
+$ whoami --contact
+```
 ## Connect
 
 ```bash
