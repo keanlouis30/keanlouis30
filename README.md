@@ -18,41 +18,14 @@
 kean@portfolio:~$ cat about.txt
 ```
 
-```
-██╗  ██╗███████╗ █████╗ ███╗   ██╗    ██████╗  ██████╗ ███████╗ █████╗ ██╗     ███████╗███████╗
-██║ ██╔╝██╔════╝██╔══██╗████╗  ██║    ██╔══██╗██╔═══██╗██╔════╝██╔══██╗██║     ██╔════╝██╔════╝
-█████╔╝ █████╗  ███████║██╔██╗ ██║    ██████╔╝██║   ██║███████╗███████║██║     █████╗  ███████╗
-██╔═██╗ ██╔══╝  ██╔══██║██║╚██╗██║    ██╔══██╗██║   ██║╚════██║██╔══██║██║     ██╔══╝  ╚════██║
-██║  ██╗███████╗██║  ██║██║ ╚████║    ██║  ██║╚██████╔╝███████║██║  ██║███████╗███████╗███████║
-╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝    ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝
-
-┌────────────────────────────────────────────────────────────────────────────────┐
-│  ACADEMIC STATUS                                                               │
-├────────────────────────────────────────────────────────────────────────────────┤
-│  [STUDENT]     4th year student at De La Salle University                     │
-│  [PROGRAM]     Bachelor of Science in Computer Science                        │
-│  [MAJOR]       Network and Information Security                               │
-└────────────────────────────────────────────────────────────────────────────────┘
-
-┌────────────────────────────────────────────────────────────────────────────────┐
-│  PROFILE OVERVIEW                                                             │
-├────────────────────────────────────────────────────────────────────────────────┤
-│  [LOCATION]         Metro Manila, Philippines                                │
-│  [SPECIALIZATION]   Cybersecurity & Full-Stack Development                   │
-│  [COMPETITIONS]     8+ Hackathons | 100% Award Rate                          │
-│  [RECENT]           DLSU HackerCup 2025 Champion                             │
-│                     Inventi Hackathon 2nd Place                              │
-└────────────────────────────────────────────────────────────────────────────────┘
-
-┌────────────────────────────────────────────────────────────────────────────────┐
-│  STATUS: [ONLINE] Available for collaboration                                 │
-└────────────────────────────────────────────────────────────────────────────────┘
-```
+```bash
+kean@portfolio:~$ echo "kean rosales — cybersecurity + full‑stack"
+kean rosales — cybersecurity + full‑stack
 
 ---
 
 <details>
-<summary>$ cat achievements/competitions.log</summary>
+<summary><img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIwIiBoZWlnaHQ9IjI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxyZWN0IHdpZHRoPSIzMjAiIGhlaWdodD0iMjQiIGZpbGw9IiMwODFjMTUiLz48dGV4dCB4PSI0IiB5PSIxNiIgZm9udC1mYW1pbHk9IkpldEJyYWlucyBNb25vLCBtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9IiM3NGM2OWQiPiQgY2F0IGFjaGlldmVtZW50cy9jb21wZXRpdGlvbnMubG9nPC90ZXh0Pjwvc3ZnPg==" alt="$ cat achievements/competitions.log"></summary>
 
 ```bash
 kean@portfolio:~$ sort -k2 -nr hackathons.log | head -10
@@ -76,7 +49,7 @@ kean@portfolio:~$ sort -k2 -nr hackathons.log | head -10
 ---
 
 <details>
-<summary>$ ls -la projects/ --featured</summary>
+<summary><img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjgwIiBoZWlnaHQ9IjI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxyZWN0IHdpZHRoPSIyODAiIGhlaWdodD0iMjQiIGZpbGw9IiMwODFjMTUiLz48dGV4dCB4PSI0IiB5PSIxNiIgZm9udC1mYW1pbHk9IkpldEJyYWlucyBNb25vLCBtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9IiM3NGM2OWQiPiQgbHMgLWxhIHByb2plY3RzLyAtLWZlYXR1cmVkPC90ZXh0Pjwvc3ZnPg==" alt="$ ls -la projects/ --featured"></summary>
 
 ```bash
 kean@portfolio:~$ ls -la projects/ | grep -E "(champion|winner|finalist)"
@@ -127,7 +100,7 @@ $ cat projects/fimo_glove.md
 ---
 
 <details>
-<summary>$ cat /etc/skills.conf</summary>
+<summary><img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAwIiBoZWlnaHQ9IjI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxyZWN0IHdpZHRoPSIyMDAiIGhlaWdodD0iMjQiIGZpbGw9IiMwODFjMTUiLz48dGV4dCB4PSI0IiB5PSIxNiIgZm9udC1mYW1pbHk9IkpldEJyYWlucyBNb25vLCBtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9IiM3NGM2OWQiPiQgY2F0IC9ldGMvc2tpbGxzLmNvbmY8L3RleHQ+PC9zdmc+" alt="$ cat /etc/skills.conf"></summary>
 
 ```bash
 kean@portfolio:~$ cat portfolio/skills.txt
@@ -187,7 +160,7 @@ $ ls skills/hardware/
 ---
 
 <details>
-<summary>$ cat ~/.config/theme/design.yml</summary>
+<summary><img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIwIiBoZWlnaHQ9IjI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxyZWN0IHdpZHRoPSIzMjAiIGhlaWdodD0iMjQiIGZpbGw9IiMwODFjMTUiLz48dGV4dCB4PSI0IiB5PSIxNiIgZm9udC1mYW1pbHk9IkpldEJyYWlucyBNb25vLCBtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9IiM3NGM2OWQiPiQgY2F0IH4vLmNvbmZpZy90aGVtZS9kZXNpZ24ueW1sPC90ZXh0Pjwvc3ZnPg==" alt="$ cat ~/.config/theme/design.yml"></summary>
 
 ![Color Palette](readme-assets/color-palette.svg)
 
@@ -216,7 +189,7 @@ $ cat design/theme.config
 ---
 
 <details>
-<summary>$ git stats --advanced</summary>
+<summary><img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAwIiBoZWlnaHQ9IjI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxyZWN0IHdpZHRoPSIyMDAiIGhlaWdodD0iMjQiIGZpbGw9IiMwODFjMTUiLz48dGV4dCB4PSI0IiB5PSIxNiIgZm9udC1mYW1pbHk9IkpldEJyYWlucyBNb25vLCBtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9IiM3NGM2OWQiPiQgZ2l0IHN0YXRzIC0tYWR2YW5jZWQ8L3RleHQ+PC9zdmc+" alt="$ git stats --advanced"></summary>
 
 <div align="center">
 
